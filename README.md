@@ -14,6 +14,12 @@ Implemented Features :
   Create, Read,Update,Delete Using Strapi's GraphQL Queries & Mutations
   Persistent Login w/ Shared Pref & Provider
 
+
+App Walkthrough
+
+https://github.com/user-attachments/assets/5a3dfaba-2005-4bf5-9857-64e08546e749
+
+
 App Screens
 
 ![image](https://github.com/user-attachments/assets/21d2551d-dddf-4b35-9c37-c57a1530068e)
